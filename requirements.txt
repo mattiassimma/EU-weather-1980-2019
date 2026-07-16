@@ -10,14 +10,14 @@ base64
 sklearn.preprocessing
 datasets
 
-For the 'data-cleanser' notebook:
-Import the files as written on the READMEs
+#For the 'data-cleanser' notebook:
+#Import the files as written on the READMEs
 
-For the dashboard (nicer graphics):
-- hourly_weather_tidy_streamlit.csv
-- precipitation_tidy_streamlit.csv
+#For the dashboard (nicer graphics):
+#- hourly_weather_tidy_streamlit.csv
+#- precipitation_tidy_streamlit.csv
 
-For the 'final-proj' notebook:
-- gradient.png
-- hourly_weather_tidy_streamlit.csv
-- precipitation_tidy_streamlit.csv
+#For the 'final-proj' notebook:
+#- gradient.png
+#- hourly_weather_tidy_streamlit.csv
+#- precipitation_tidy_streamlit.csv
