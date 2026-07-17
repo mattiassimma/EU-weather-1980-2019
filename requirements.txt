@@ -9,4 +9,3 @@ pycountry
 base64
 sklearn.preprocessing
 datasets
-pyarrow datasets
