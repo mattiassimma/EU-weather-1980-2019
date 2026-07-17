@@ -10,7 +10,7 @@ numpy==2.1.3
 
 #plotly.io==5.24.1
 pycountry==26.2.16
-base64
+#base64
 sklearn
 #.preprocessing
 
