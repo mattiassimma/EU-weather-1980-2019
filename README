@@ -13,3 +13,8 @@ For the 'final-proj' notebook:
 - hourly_weather_tidy_streamlit.csv
 - precipitation_tidy_streamlit.csv
 Those files already went through the data cleanser
+
+In the code, it is supposing that the file structure is the following
+../main
+../main/proj_data (contains all the csv and png files)
+../main/final-project (contains the ipynb and py files)
