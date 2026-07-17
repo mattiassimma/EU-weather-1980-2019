@@ -1,6 +1,6 @@
 streamlit==1.45.1
 pandas==2.2.3
-plotly.graph_objects==5.24.1
+#plotly.graph_objects==5.24.1
 plotly.express==5.24.1
 numpy==2.1.3
 json==2.0.9
