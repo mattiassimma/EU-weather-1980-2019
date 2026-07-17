@@ -908,11 +908,12 @@ fig_q28 = px.bar(
     x='country',
     y='distance',
     color='distance',
+    range_color=[4,5],
     title='Distance from European Average<br>(temperature, total radiation, precipitation)',
     labels={'country': 'Country', 'distance': 'Distance from EU Mean'},
     hover_name='country',
     hover_data={'distance': ':.3f', 'country': False},
-    color_continuous_scale='RdYlGn_r',
+    color_continuous_scale=custom_grey,
     template='plotly_white',
     height=500
 )
