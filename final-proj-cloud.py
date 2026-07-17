@@ -9,6 +9,7 @@ import pandas as pd
 import plotly.express as px
 import numpy as np
 import pycountry
+import statmodels as sm
 from sklearn.preprocessing import StandardScaler
 
 # ── page config ────────────────────────────────────────────────────────────────
