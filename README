@@ -1,11 +1,15 @@
 For the 'data-cleanser' notebook:
-Import the files as written on the READMEs
+Import the files as written on the READMEs (or download with names weather_data.csv and precipitation.csv and read_csv)
+- weather_data.csv
+- precipitation.csv
 
 For the dashboard (nicer graphics):
 - hourly_weather_tidy_streamlit.csv
 - precipitation_tidy_streamlit.csv
+Those files already went through the data cleanser
 
 For the 'final-proj' notebook:
 - gradient.png
 - hourly_weather_tidy_streamlit.csv
 - precipitation_tidy_streamlit.csv
+Those files already went through the data cleanser
